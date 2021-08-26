@@ -88,6 +88,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.google.javascript</groupId>-->
+<!--            <artifactId>closure-compiler</artifactId>-->
+<!--            <version>v20160315</version>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
